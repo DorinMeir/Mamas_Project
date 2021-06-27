@@ -1,0 +1,15 @@
+/Users/dorinmeir/Documents/Mamas/bin/Debug/net5.0/Mamas.deps.json
+/Users/dorinmeir/Documents/Mamas/bin/Debug/net5.0/Mamas.runtimeconfig.json
+/Users/dorinmeir/Documents/Mamas/bin/Debug/net5.0/Mamas.runtimeconfig.dev.json
+/Users/dorinmeir/Documents/Mamas/bin/Debug/net5.0/Mamas.dll
+/Users/dorinmeir/Documents/Mamas/bin/Debug/net5.0/ref/Mamas.dll
+/Users/dorinmeir/Documents/Mamas/bin/Debug/net5.0/Mamas.pdb
+/Users/dorinmeir/Documents/Mamas/obj/Debug/net5.0/Mamas.csproj.AssemblyReference.cache
+/Users/dorinmeir/Documents/Mamas/obj/Debug/net5.0/Mamas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dorinmeir/Documents/Mamas/obj/Debug/net5.0/Mamas.AssemblyInfoInputs.cache
+/Users/dorinmeir/Documents/Mamas/obj/Debug/net5.0/Mamas.AssemblyInfo.cs
+/Users/dorinmeir/Documents/Mamas/obj/Debug/net5.0/Mamas.csproj.CoreCompileInputs.cache
+/Users/dorinmeir/Documents/Mamas/obj/Debug/net5.0/Mamas.dll
+/Users/dorinmeir/Documents/Mamas/obj/Debug/net5.0/ref/Mamas.dll
+/Users/dorinmeir/Documents/Mamas/obj/Debug/net5.0/Mamas.pdb
+/Users/dorinmeir/Documents/Mamas/obj/Debug/net5.0/Mamas.genruntimeconfig.cache
